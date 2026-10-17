@@ -1,0 +1,10 @@
+{
+  "name": "ChemHub by Narek Tech Lab",
+  "short_name": "ChemHub",
+  "description": "Interactive periodic table and chemistry tools",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07172d",
+  "theme_color": "#07172d",
+  "icons": []
+}
